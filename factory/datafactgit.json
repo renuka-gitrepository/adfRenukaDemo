@@ -1,0 +1,9 @@
+{
+	"name": "datafactgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e372bd36-e1d0-4c65-a3c4-f4ccb468674b",
+		"tenantId": "25f58602-ef2a-4753-808e-03a130d40700"
+	}
+}
