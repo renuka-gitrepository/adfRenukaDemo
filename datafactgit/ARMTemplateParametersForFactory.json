@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "datafactgit"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
